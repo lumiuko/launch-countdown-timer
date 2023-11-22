@@ -4,10 +4,10 @@ const date = new Date()
 const targetDate = new Date(
   date.getFullYear(),
   date.getMonth(),
-  date.getDate() + 15,
-  date.getHours(),
-  date.getMinutes(),
-  date.getSeconds(),
+  date.getDate() + 8,
+  date.getHours() + 23,
+  date.getMinutes() + 55,
+  date.getSeconds() + 43,
   date.getMilliseconds()
 )
 

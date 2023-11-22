@@ -23,12 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://i.imgur.com/ru0iTCJ.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/launch-countdown-timer-using-vanilla-css-and-js-TJd-KFSXX4](https://www.frontendmentor.io/solutions/launch-countdown-timer-using-vanilla-css-and-js-TJd-KFSXX4)
+- Live Site URL: [https://launch-time-countdown.netlify.app/](https://launch-time-countdown.netlify.app/)
 
 ## My process
 
