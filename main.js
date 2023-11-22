@@ -7,7 +7,7 @@ const targetDate = new Date(
   date.getDate() + 8,
   date.getHours() + 23,
   date.getMinutes() + 55,
-  date.getSeconds() + 43,
+  date.getSeconds() + 41,
   date.getMilliseconds()
 )
 
