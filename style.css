@@ -19,7 +19,7 @@ body {
   font-family: 'Red Hat Text', sans-serif;
   color: var(--grayish-blue);
   font-weight: 700;
-  min-height: 100vh;
+  min-height: 100dvh;
   display: flex;
   flex-direction: column;
   background: url('/pattern-hills-mobile.svg') no-repeat, url('/bg-stars.svg'), var(--bg-gradient);
@@ -60,11 +60,7 @@ body {
 
 .social-link {
   color: var(--grayish-blue);
-  transition: color 0.25s;
-}
-
-.social-link:hover {
-  color: var(--soft-red);
+  display: flex;
 }
 
 .countdown-cards {
